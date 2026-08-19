@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=28&duration=3000&pause=1500&color=2F81F7&center=true&vCenter=true&repeat=true&width=500&lines=Hi%2C+I'm+Sai+Dharshini" alt="Hi👋, I'm Sai Dharshini" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&pause=1500&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Dharshini" alt="Hi, I'm Sai Dharshini" />
 </p>
 
 <p align="center">
@@ -7,40 +11,96 @@
 </p>
 
 <p align="center">
-  I build practical web applications using React, Node.js, Express, and MongoDB.
+  I enjoy building practical web applications and turning ideas into functional software.
 </p>
 
----
+<br>
 
-## About Me
+<h2 align="center">🔗 Connect With Me</h2>
 
-- 🎓 Computer Science Engineering student
-- 💻 Interested in full-stack web development
-- 🌱 Currently strengthening JavaScript, React, and MongoDB
-- 🚀 Building real-world projects to improve my development skills
-- 🎯 Currently preparing for software development internship opportunities
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-dharshini-p/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:saidharshini2482@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## Tech Stack
+<br>
 
-**Frontend**  
-HTML • CSS • JavaScript • React
+<h2>👩‍💻 About Me</h2>
 
-**Backend**  
-Node.js • Express.js
+<ul>
+  <li>🎓 Computer Science Engineering student passionate about software development</li>
+  <li>💻 Interested in full-stack web development</li>
+  <li>🌱 Currently strengthening DSA, JavaScript, React and MongoDB</li>
+  <li>🚀 Learning by building practical and real-world applications</li>
+</ul>
 
-**Database**  
-MongoDB • SQL
+<br>
 
-**Tools**  
-Git • GitHub • VS Code
+<h2>💡 What I Do</h2>
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎨 Frontend Development</h3>
+      Building responsive and user-friendly interfaces using React, JavaScript, HTML and CSS.
+    </td>
+    <td width="50%">
+      <h3>⚙️ Backend Development</h3>
+      Developing server-side applications and REST APIs using Node.js and Express.js.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗄️ Database Development</h3>
+      Working with MongoDB and SQL to store, manage and retrieve application data.
+    </td>
+    <td width="50%">
+      <h3>🧩 Problem Solving</h3>
+      Turning ideas into functional applications while continuously improving my development skills.
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-## Currently Learning
+<h2 align="center">🛠️ Tech Stack</h2>
 
-JavaScript • React • MongoDB • Backend Development • Data Structures & Algorithms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
 
-## Let's Connect
+<br>
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Email](YOUR_EMAIL)
+<h2 align="center">🌱 Currently Learning</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,mongodb,nodejs" />
+</p>
+
+<p align="center">
+  JavaScript&nbsp; • &nbsp;React&nbsp; • &nbsp;MongoDB&nbsp; • &nbsp;Backend Development&nbsp; • &nbsp;Data Structures & Algorithms
+</p>
+
+<br>
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<p align="center">
+  Building strong full-stack projects, improving my problem-solving skills,
+  and preparing for software development internships.
+</p>
+
+<br>
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" />
+</p>
