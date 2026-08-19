@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <i>Always learning. Always building. Always improving.</i>
+  <i>From ideas to implementation.</i>
 </p>
 
 <p align="center">
