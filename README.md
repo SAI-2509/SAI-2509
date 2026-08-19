@@ -34,16 +34,6 @@ MongoDB • SQL
 **Tools**  
 Git • GitHub • VS Code
 
-## Featured Projects
-
-### 💼 JOB-SPHERE
-A full-stack job portal built with React, Node.js, Express, and MongoDB.
-
-### 📊 Project Management System
-A MERN-based application for managing projects, tasks, dependencies, and activity tracking.
-
-### 🧬 Digital Twin – Ripple Effect
-A MERN-based simulation project focused on visualizing the impact of medication adherence.
 
 ---
 
